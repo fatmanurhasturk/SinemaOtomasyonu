@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Sinema" Class="DataSinemaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-357N33B;Initial Catalog=Sinema;Integrated Security=True" SettingsObjectName="SinemaOtomasyonu.Properties.Settings" SettingsPropertyName="SinemaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.BiletKesim" Member="BiletKesims">
+    <Type Name="BiletKesim">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SeansId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FilmAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SalonNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KoltukNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BiletTipi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Tutar" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="PromosyonId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Seanslar_BiletKesim" Member="Seanslar" ThisKey="SeansId" OtherKey="Id" Type="Seanslar" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Promosyon_BiletKesim" Member="Promosyon" ThisKey="PromosyonId" OtherKey="Id" Type="Promosyon" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Seanslar" Member="Seanslars">
+    <Type Name="Seanslar">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FilmId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SalonId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Seans" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SeansDurum" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Seanslar_BiletKesim" Member="BiletKesims" ThisKey="Id" OtherKey="SeansId" Type="BiletKesim" />
+      <Association Name="Filmler_Seanslar" Member="Filmler" ThisKey="FilmId" OtherKey="Id" Type="Filmler" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Salonlar_Seanslar" Member="Salonlar" ThisKey="SalonId" OtherKey="Id" Type="Salonlar" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Filmler" Member="Filmlers">
+    <Type Name="Filmler">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="FTuru" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Afis" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Ozet" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Sure" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="VizyonT" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DublajT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Teknoloji" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="HamF" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Filmler_Seanslar" Member="Seanslars" ThisKey="Id" OtherKey="FilmId" Type="Seanslar" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Kullanicilar" Member="Kullanicilars">
+    <Type Name="Kullanicilar">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KullaniciAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Sifre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Yetki" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Promosyon" Member="Promosyons">
+    <Type Name="Promosyon">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PromosyonAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PTutar" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Aciklama" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="Promosyon_BiletKesim" Member="BiletKesims" ThisKey="Id" OtherKey="PromosyonId" Type="BiletKesim" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Salonlar" Member="Salonlars">
+    <Type Name="Salonlar">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SalonNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Kapasite" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SalonTuru" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="KoltukTuru" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SiraNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ReservedKoltuk" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="KoltukAktar" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SalonDurum" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="SeansSaat" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DurumBir" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Durumİki" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DurumUc" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DurumDort" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DurumBes" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Salonlar_Seanslar" Member="Seanslars" ThisKey="Id" OtherKey="SalonId" Type="Seanslar" />
+    </Type>
+  </Table>
+  <Table Name="dbo.vwBiletDuzenle" Member="vwBiletDuzenles">
+    <Type Name="vwBiletDuzenle">
+      <Column Name="Id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SeansId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FilmAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SalonNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KoltukNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BiletTipi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Tutar" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="PromosyonId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Seans" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FTuru" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Sure" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="DublajT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Teknoloji" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PromosyonAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PTutar" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

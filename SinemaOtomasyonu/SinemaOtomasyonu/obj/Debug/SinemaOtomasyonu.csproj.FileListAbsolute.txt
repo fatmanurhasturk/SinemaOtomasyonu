@@ -1,0 +1,608 @@
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\burak\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\ugur7\Desktop\SinemaOtomasyonu3\SinemaOtomasyonu\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\FlashControlV71.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\bin\Debug\stdole.dll
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\Gözde\Desktop\Sin.Son\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\FlashControlV71.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\stdole.dll
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\Gözde\Desktop\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\FlashControlV71.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\bin\Debug\stdole.dll
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+E:\Sin.Son12-01\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\bin\Debug\stdole.dll
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+C:\Users\ugur7\Desktop\Sin.Songozde\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\stdole.dll
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\Merve Küçük\Desktop\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcı.frmKullanici.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmSeans.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcı.frmKullanici.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\stdole.dll
+C:\Users\ugur7\Desktop\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\stdole.dll
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmSeans.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcı.frmKullanici.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\burak\OneDrive\Masaüstü\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\FlashControlV71.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\stdole.dll
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmSeans.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcı.frmKullanici.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\iau\Desktop\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\FlashControlV71.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\stdole.dll
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmSeans.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcı.frmKullanici.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+\\SEM-BILGISAYAR\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\FlashControlV71.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\ShockwaveFlashObjects.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\stdole.dll
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmSeans.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcı.frmKullanici.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+\\10.10.22.199\Paylas-Oglen\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminPaneli.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGiris.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletGuncelleSil.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletKes.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.filmEkle.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmGuncelleSil.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.FilmSeans.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcı.frmKullanici.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Liste1.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.BiletDuzenle.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Print.frmPrint.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.promosyonIslemleri.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonGuncelleSil.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansEkle.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SeansGuncelleSil.resources
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\Acer\Desktop\Son Dosyalar\AciklamaSatiriSinemaSON\AciklamaSatiriSinemaSON\AciklamaSatiriSinema\Sin.SonunBaşlangıcı15.01\Sin.SonunBaşlangıcı\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb

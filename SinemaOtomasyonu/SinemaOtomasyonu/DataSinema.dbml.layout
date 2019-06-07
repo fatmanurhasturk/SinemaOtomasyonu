@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.5, 10.75" name="DataSinema">
+  <DataContextMoniker Name="/DataSinemaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e538feab-37ee-4967-88be-de2eb24e3a05" absoluteBounds="6.25, 1.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DataSinemaDataContext/BiletKesim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="324e9154-95d1-4d3f-9c78-e4fb47a64d69" absoluteBounds="6.265, 1.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="afb0da29-a05a-4059-a07c-1179310c2bda" absoluteBounds="3.5, 1.5, 2, 1.7708968098958333">
+      <DataClassMoniker Name="/DataSinemaDataContext/Seanslar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4d30f8c1-421f-4c84-ba4b-6f77fc0c34d1" absoluteBounds="3.515, 1.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f60be251-d4f6-44c3-9dd7-4d005fe58947" absoluteBounds="0.75, 1, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DataSinemaDataContext/Filmler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ffc6082f-5787-44e5-a55e-1c617446dd96" absoluteBounds="0.765, 1.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bae1ab04-dc5b-4048-b867-ad8d3382d516" absoluteBounds="6.75, 4.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataSinemaDataContext/Kullanicilar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="404e5b58-d18d-487f-ada4-e3efdbc61351" absoluteBounds="6.765, 5.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31b64737-c397-41f2-a228-5854d996d24f" absoluteBounds="3.5, 5.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataSinemaDataContext/Promosyon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="77ddbd4d-84a8-433f-ab70-e839c3b11eee" absoluteBounds="3.515, 5.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc77e8bc-fbe3-487e-b3f0-cda67952c146" absoluteBounds="0.75, 6.75, 2, 3.6939111328124987">
+      <DataClassMoniker Name="/DataSinemaDataContext/Salonlar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4847436d-008b-450d-a399-c921cda6bc74" absoluteBounds="0.765, 7.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.38544840494792); (6.25 : 2.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataSinemaDataContext/Seanslar/Seanslar_BiletKesim" />
+      <nodes>
+        <classShapeMoniker Id="afb0da29-a05a-4059-a07c-1179310c2bda" />
+        <classShapeMoniker Id="e538feab-37ee-4967-88be-de2eb24e3a05" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.38544840494792); (3.5 : 2.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataSinemaDataContext/Filmler/Filmler_Seanslar" />
+      <nodes>
+        <classShapeMoniker Id="f60be251-d4f6-44c3-9dd7-4d005fe58947" />
+        <classShapeMoniker Id="afb0da29-a05a-4059-a07c-1179310c2bda" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.73484537760417); (6.46875 : 6.73484537760417); (6.46875 : 3.47280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataSinemaDataContext/Promosyon/Promosyon_BiletKesim" />
+      <nodes>
+        <classShapeMoniker Id="31b64737-c397-41f2-a228-5854d996d24f" />
+        <classShapeMoniker Id="e538feab-37ee-4967-88be-de2eb24e3a05" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.75153746153846); (3.125 : 6.37653746153846); (3.125 : 2.85942460742188); (3.5 : 2.85942460742188)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataSinemaDataContext/Salonlar/Salonlar_Seanslar" />
+      <nodes>
+        <classShapeMoniker Id="dc77e8bc-fbe3-487e-b3f0-cda67952c146" />
+        <classShapeMoniker Id="afb0da29-a05a-4059-a07c-1179310c2bda" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="6a637708-4187-4ec7-8328-a4f93e3d18b4" absoluteBounds="10.25, 3.625, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/DataSinemaDataContext/vwBiletDuzenle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f31d017-d686-4f03-81ab-8ef2ad75cc69" absoluteBounds="10.265, 4.085, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
